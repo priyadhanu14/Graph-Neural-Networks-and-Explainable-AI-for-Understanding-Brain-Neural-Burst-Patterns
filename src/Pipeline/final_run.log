@@ -1,0 +1,321 @@
+python3: can't open file '/DATA/hdhanu/GNN/Explainability/Final_run.py': [Errno 2] No such file or directory
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+2025-06-02 20:18:34,573 INFO | Dataset size = 2689 bursts
+2025-06-02 20:18:34,574 INFO | === w5_g10_m0 ===
+[Parallel(n_jobs=20)]: Using backend LokyBackend with 20 concurrent workers.
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+joblib.externals.loky.process_executor._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py", line 490, in _process_worker
+    r = call_item()
+        ^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py", line 291, in __call__
+    return self.fn(*self.args, **self.kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 606, in __call__
+    return [func(*args, **kwargs) for func, args, kwargs in self.items]
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/GNN/Explainability/Full_run.py", line 79, in process_chunk
+    bid        = entry['burst_id']
+                 ~~~~~^^^^^^^^^^^^
+KeyError: 'burst_id'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/DATA/hdhanu/GNN/Explainability/Full_run.py", line 214, in <module>
+    results = Parallel(n_jobs=max_workers, backend='loky', verbose=5)(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 2071, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 1681, in _get_outputs
+    yield from self._retrieve()
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 1783, in _retrieve
+    self._raise_error_fast()
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 1858, in _raise_error_fast
+    error_job.get_result(self.timeout)
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 757, in get_result
+    return self._return_or_raise()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 772, in _return_or_raise
+    raise self._result
+KeyError: 'burst_id'
+python3: can't open file '/DATA/hdhanu/GNN/Explainability/Final_run.py': [Errno 2] No such file or directory
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+2025-06-04 00:20:24,944 INFO | Dataset size = 2689 bursts
+2025-06-04 00:20:24,945 INFO | Skip w5_g10_m0 (done)
+2025-06-04 00:20:24,945 INFO | === w5_g10_m2 ===
+[Parallel(n_jobs=20)]: Using backend LokyBackend with 20 concurrent workers.
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+joblib.externals.loky.process_executor._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py", line 490, in _process_worker
+    r = call_item()
+        ^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py", line 291, in __call__
+    return self.fn(*self.args, **self.kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 606, in __call__
+    return [func(*args, **kwargs) for func, args, kwargs in self.items]
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/GNN/Explainability/Full_run.py", line 79, in process_chunk
+    bid        = entry['burst_id']
+                 ~~~~~^^^^^^^^^^^^
+KeyError: 'burst_id'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/DATA/hdhanu/GNN/Explainability/Full_run.py", line 214, in <module>
+    results = Parallel(n_jobs=max_workers, backend='loky', verbose=5)(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 2071, in __call__
+    return output if self.return_generator else list(output)
+                                                ^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 1681, in _get_outputs
+    yield from self._retrieve()
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 1783, in _retrieve
+    self._raise_error_fast()
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 1858, in _raise_error_fast
+    error_job.get_result(self.timeout)
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 757, in get_result
+    return self._return_or_raise()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/hdhanu/lib/python3.12/site-packages/joblib/parallel.py", line 772, in _return_or_raise
+    raise self._result
+KeyError: 'burst_id'
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+Traceback (most recent call last):
+  File "/DATA/hdhanu/GNN/Explainability/Full_run.py", line 176, in <module>
+    mp.set_start_method("spawn", force=True, allow_none=True)
+TypeError: DefaultContext.set_start_method() got an unexpected keyword argument 'allow_none'
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+2025-06-04 00:39:54,130 INFO | Dataset size = 2689 bursts
+2025-06-04 00:39:54,130 INFO | Skip w5_g10_m0 (done)
+2025-06-04 00:39:54,131 INFO | Skip w5_g10_m2 (done)
+2025-06-04 00:39:54,162 INFO | === w5_g10_m5 ===
+[Parallel(n_jobs=20)]: Using backend LokyBackend with 20 concurrent workers.
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+2025-06-04 00:41:54,553 INFO | Dataset size = 2689 bursts
+2025-06-04 00:41:54,554 INFO | === w5_g1000_m0 ===
+[Parallel(n_jobs=20)]: Using backend LokyBackend with 20 concurrent workers.
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+/DATA/hdhanu/lib/python3.12/site-packages/torch/__config__.py:10: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:109.)
+  return torch._C._show_config()
+[Parallel(n_jobs=20)]: Done   6 out of  27 | elapsed:  2.4min remaining:  8.3min
+[Parallel(n_jobs=20)]: Done  12 out of  27 | elapsed:  2.6min remaining:  3.3min
+[Parallel(n_jobs=20)]: Done  18 out of  27 | elapsed:  2.7min remaining:  1.3min
+[Parallel(n_jobs=20)]: Done  24 out of  27 | elapsed:  3.7min remaining:   27.6s
+[Parallel(n_jobs=20)]: Done  27 out of  27 | elapsed:  3.7min finished
+2025-06-04 00:45:36,652 INFO | Built 5378 graphs in 222.1s
+Dropped 0 bursts (0 graphs) with NaNs
+Scaled data saved to w5_g1000_m0/cleaned_scaled.pt
+2025-06-04 00:45:38,082 INFO | Group overlap OK
+/DATA/hdhanu/lib/python3.12/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+2025-06-04 00:45:42,913 INFO | w5_g1000_m0 | Ep 001 | Tr 0.1674/0.951 | Va 0.1139/0.968 P=0.985 R=0.950 F1=0.967
+2025-06-04 00:45:47,895 INFO | w5_g1000_m0 | Ep 002 | Tr 0.0864/0.971 | Va 0.0898/0.969 P=0.992 R=0.946 F1=0.968
+2025-06-04 00:45:53,011 INFO | w5_g1000_m0 | Ep 003 | Tr 0.0406/0.984 | Va 0.0300/0.990 P=0.993 R=0.988 F1=0.990
+2025-06-04 00:45:58,171 INFO | w5_g1000_m0 | Ep 004 | Tr 0.0285/0.989 | Va 0.0243/0.990 P=0.993 R=0.988 F1=0.990
+2025-06-04 00:46:02,813 INFO | w5_g1000_m0 | Ep 005 | Tr 0.0234/0.992 | Va 0.0185/0.994 P=0.995 R=0.993 F1=0.994
+2025-06-04 00:46:07,271 INFO | w5_g1000_m0 | Ep 006 | Tr 0.0254/0.991 | Va 0.0197/0.991 P=0.995 R=0.988 F1=0.991
+2025-06-04 00:46:11,659 INFO | w5_g1000_m0 | Ep 007 | Tr 0.0214/0.992 | Va 0.0283/0.991 P=0.988 R=0.995 F1=0.991
+2025-06-04 00:46:15,884 INFO | w5_g1000_m0 | Ep 008 | Tr 0.0180/0.993 | Va 0.0263/0.988 P=1.000 R=0.975 F1=0.987
+2025-06-04 00:46:20,374 INFO | w5_g1000_m0 | Ep 009 | Tr 0.0177/0.995 | Va 0.0261/0.988 P=0.995 R=0.980 F1=0.988
+2025-06-04 00:46:24,858 INFO | w5_g1000_m0 | Ep 010 | Tr 0.0236/0.992 | Va 0.0254/0.990 P=0.985 R=0.995 F1=0.990
+2025-06-04 00:46:29,175 INFO | w5_g1000_m0 | Ep 011 | Tr 0.0131/0.995 | Va 0.0159/0.995 P=0.998 R=0.993 F1=0.995
+2025-06-04 00:46:33,426 INFO | w5_g1000_m0 | Ep 012 | Tr 0.0119/0.997 | Va 0.0129/0.994 P=0.993 R=0.995 F1=0.994
+2025-06-04 00:46:37,663 INFO | w5_g1000_m0 | Ep 013 | Tr 0.0157/0.995 | Va 0.0141/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:46:41,969 INFO | w5_g1000_m0 | Ep 014 | Tr 0.0119/0.996 | Va 0.0139/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:46:46,501 INFO | w5_g1000_m0 | Ep 015 | Tr 0.0122/0.995 | Va 0.0221/0.990 P=1.000 R=0.980 F1=0.990
+2025-06-04 00:46:51,146 INFO | w5_g1000_m0 | Ep 016 | Tr 0.0115/0.995 | Va 0.0208/0.993 P=0.998 R=0.988 F1=0.993
+2025-06-04 00:46:55,863 INFO | w5_g1000_m0 | Ep 017 | Tr 0.0136/0.996 | Va 0.0168/0.994 P=0.998 R=0.990 F1=0.994
+2025-06-04 00:47:00,574 INFO | w5_g1000_m0 | Ep 018 | Tr 0.0095/0.998 | Va 0.0142/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:05,230 INFO | w5_g1000_m0 | Ep 019 | Tr 0.0094/0.997 | Va 0.0126/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:47:09,906 INFO | w5_g1000_m0 | Ep 020 | Tr 0.0116/0.996 | Va 0.0130/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:14,615 INFO | w5_g1000_m0 | Ep 021 | Tr 0.0097/0.998 | Va 0.0124/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:19,220 INFO | w5_g1000_m0 | Ep 022 | Tr 0.0093/0.997 | Va 0.0127/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:23,905 INFO | w5_g1000_m0 | Ep 023 | Tr 0.0094/0.997 | Va 0.0128/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:47:28,521 INFO | w5_g1000_m0 | Ep 024 | Tr 0.0109/0.997 | Va 0.0116/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:33,121 INFO | w5_g1000_m0 | Ep 025 | Tr 0.0112/0.996 | Va 0.0148/0.994 P=0.993 R=0.995 F1=0.994
+2025-06-04 00:47:37,798 INFO | w5_g1000_m0 | Ep 026 | Tr 0.0100/0.997 | Va 0.0136/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:42,435 INFO | w5_g1000_m0 | Ep 027 | Tr 0.0098/0.997 | Va 0.0145/0.995 P=0.998 R=0.993 F1=0.995
+2025-06-04 00:47:47,082 INFO | w5_g1000_m0 | Ep 028 | Tr 0.0099/0.996 | Va 0.0114/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:51,700 INFO | w5_g1000_m0 | Ep 029 | Tr 0.0102/0.997 | Va 0.0120/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:47:56,353 INFO | w5_g1000_m0 | Ep 030 | Tr 0.0092/0.997 | Va 0.0136/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:48:01,008 INFO | w5_g1000_m0 | Ep 031 | Tr 0.0097/0.997 | Va 0.0113/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:48:05,603 INFO | w5_g1000_m0 | Ep 032 | Tr 0.0091/0.997 | Va 0.0130/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:48:10,186 INFO | w5_g1000_m0 | Ep 033 | Tr 0.0112/0.997 | Va 0.0120/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:48:14,818 INFO | w5_g1000_m0 | Ep 034 | Tr 0.0105/0.997 | Va 0.0207/0.990 P=0.997 R=0.983 F1=0.990
+2025-06-04 00:48:19,434 INFO | w5_g1000_m0 | Ep 035 | Tr 0.0100/0.996 | Va 0.0126/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:48:24,126 INFO | w5_g1000_m0 | Ep 036 | Tr 0.0084/0.998 | Va 0.0133/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:48:28,786 INFO | w5_g1000_m0 | Ep 037 | Tr 0.0086/0.997 | Va 0.0119/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:48:33,432 INFO | w5_g1000_m0 | Ep 038 | Tr 0.0078/0.998 | Va 0.0128/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:48:38,060 INFO | w5_g1000_m0 | Ep 039 | Tr 0.0077/0.998 | Va 0.0124/0.995 P=0.995 R=0.995 F1=0.995
+2025-06-04 00:48:42,704 INFO | w5_g1000_m0 | Ep 040 | Tr 0.0080/0.997 | Va 0.0145/0.995 P=0.998 R=0.993 F1=0.995
+2025-06-04 00:48:47,304 INFO | w5_g1000_m0 | Ep 041 | Tr 0.0084/0.998 | Va 0.0120/0.996 P=0.998 R=0.995 F1=0.996
+2025-06-04 00:48:47,304 INFO | Early stopping
+2025-06-04 00:48:47,811 INFO | w5_g1000_m0 | TEST loss=0.0061 acc=0.999 P=0.998 R=1.000 F1=0.999
+2025-06-04 00:48:48,308 INFO | Finished w5_g1000_m0
+2025-06-04 00:48:48,308 INFO | All sweeps complete ✨

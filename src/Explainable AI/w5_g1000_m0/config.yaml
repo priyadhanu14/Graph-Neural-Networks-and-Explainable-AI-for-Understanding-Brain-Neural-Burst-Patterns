@@ -1,0 +1,7 @@
+gap: 1000
+git_sha: 'fatal: not a git repository (or any parent up to mount point /)
+
+  Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).'
+mask_shift: 0
+ts: '2025-06-04T00:41:54.554527'
+window: 5
