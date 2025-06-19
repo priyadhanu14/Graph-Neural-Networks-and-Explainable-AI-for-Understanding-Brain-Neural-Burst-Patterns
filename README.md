@@ -19,8 +19,7 @@ This thesis builds an **end-to-end ML pipeline** that
 5. **Validates** with an automated ablation suite
    (label-shuffle, edge randomisation, degree-preserving shuffles, LOSO CV).
 
-> **Goal:** reveal repeated local motifs that consistently precede network
-> bursts and may act as triggers.
+> **Goal:** reveal repeated patterns that consistently precede network bursts and may act as triggers.
 
 ---
 @mastersthesis{dhanasekaran2025gnn,
