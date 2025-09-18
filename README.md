@@ -23,6 +23,8 @@ This project builds an **end-to-end machine learning pipeline** that integrates 
    - 3-layer Graph Convolutional Network (PyTorch Geometric)  
    - Binary classification: *pre-burst* vs *non-burst* subgraphs  
    - Achieved **F1 ≈ 0.996**
+     
+     <img width="1079" height="411" alt="image" src="https://github.com/user-attachments/assets/011694c2-f281-411d-9012-e8b2d192ef61" />
 
 4. **Explainability**  
    - Applied **GNNExplainer** and **PGExplainer**  
