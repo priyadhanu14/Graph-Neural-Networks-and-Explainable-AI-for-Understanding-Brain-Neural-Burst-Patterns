@@ -63,13 +63,3 @@ Example: Saliency maps of pre-burst motifs (Local Hub vs Remote Ring)
 - **Visualization**: Matplotlib, t-SNE  
 
 ---
-
-## 📖 Citation
-```bibtex
-@mastersthesis{dhanasekaran2025gnn,
-  author      = {Hari Priya Dhanasekaran},
-  title       = {Analyzing Brain Neural Graphs with Graph Neural Networks},
-  school      = {University of Washington Bothell},
-  year        = {2025},
-  url         = {https://github.com/priyadhanu14/GNN-Spiking-Neural-Networks}
-}
