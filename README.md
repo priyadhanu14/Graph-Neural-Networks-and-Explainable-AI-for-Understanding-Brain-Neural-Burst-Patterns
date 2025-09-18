@@ -46,10 +46,11 @@ This project builds an **end-to-end machine learning pipeline** that integrates 
 ---
 
 ## 📊 Results Snapshot
-<p align="center">
-  <img src="assets/gnn_burst_patterns.png" alt="Burst Patterns Visualization" width="600"/>
-</p>  
-*Example: Saliency maps of pre-burst motifs (Local Hub vs Remote Ring)*
+<img width="558" height="537" alt="image" src="https://github.com/user-attachments/assets/43bf2eb3-9cff-4d1b-af69-4171e9b59946" />
+
+<img width="477" height="477" alt="image" src="https://github.com/user-attachments/assets/a49d6b4d-6f50-4236-8fe8-3a7927a78be2" />
+  
+Example: Saliency maps of pre-burst motifs (Local Hub vs Remote Ring)
 
 ---
 
